@@ -1,0 +1,6 @@
+{
+  "name": "KGN Daily Grocery",
+  "description": "Modern, premium grocery e-commerce app with cart system and delivery rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
